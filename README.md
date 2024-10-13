@@ -26,8 +26,7 @@ A multi-gaming platform offering a range of real-money games, including Bingo, R
 
 ## 📚 Currently Learning
 
-- Corporate Finance
-- Advanced Game Development Techniques
+- I am learning what I need to become a good software engineer.
 
 ## 💬 Let's Connect
 
@@ -37,7 +36,7 @@ A multi-gaming platform offering a range of real-money games, including Bingo, R
 
 ## 🌐 Fun Fact
 
-Did you know? I'm always exploring new technologies and staying up-to-date with the latest trends in game development. Feel free to explore my repositories and see what I'm working on!
+Did you know? I'm always exploring new technologies and trying to stay up-to-date with the latest trends in game development. Feel free to explore my repositories and see what I'm working on!
 
 Thank you for visiting my profile. Looking forward to connecting and collaborating with you! 😊
 
